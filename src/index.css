@@ -92,11 +92,12 @@ nav a:active {
 }
 
 .technologies span {
-  background-color: lightblue;
+  background-color: firebrick;
   margin: 0.25rem;
   padding: 0.5rem;
   border-radius: 4px;
   display: inline-block;
+  color: cornsilk
 }
 
 @media (min-width: 700px) {
